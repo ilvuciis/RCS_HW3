@@ -1,17 +1,16 @@
-@import url(https://fonts.googleapis.com/css?family=Amaranth);
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 body { 
-  font-family: 'Amaranth', sans-serif; 
+  font-family: 'Roboto', sans-serif;
   font: 16px/120%; 
   margin: 0;	
- 
   display: block;
-  width: 100%;
 }
 #page-wrap { 
   margin: 0 auto; 
   padding-top: 20px;	
   width: 360px;
 }
+
 header { 
   padding-bottom: 20px; 
 }
@@ -19,10 +18,8 @@ h1 {
   font-weight: 700; 
   letter-spacing: 0.5px; 
 }
-h2 {
-  border-top: 1px solid #999;
-  padding-top: 15px;
-}
+
+
 .js {
   padding-bottom: 40px;
 }
